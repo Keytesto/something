@@ -16,7 +16,7 @@ from urllib.parse import urlparse, parse_qs
 
 bot = telebot.TeleBot('7995686983:AAESO_bdqgGlTbIVRjKIisNgBg8ajKPzSwQ')
   
-aliexpress = AliexpressApi('514702', '9GKI9qQkgEMiHBat5UZq98TV8KLT2j0k',
+aliexpress = AliexpressApi('514702', '43jmZynAR53x9SBuhMilb0PpQ41or1Nc',
                            models.Language.EN, models.Currency.EUR, 'default')
 # In[3]:
 
